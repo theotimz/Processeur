@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns

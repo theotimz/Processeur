@@ -1,0 +1,816 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/DI_EX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DI_EX
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LC
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/etageMem.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity etageMem
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/test_cheminDonnee.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_cheminDonnee
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/test_cheminDonnee.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_cheminDonnee
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/test_cheminDonnee.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_cheminDonnee
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/test_cheminDonnee.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_cheminDonnee
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/test_cheminDonnee.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_cheminDonnee
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/test_cheminDonnee.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_cheminDonnee
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/test_cheminDonnee.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_cheminDonnee
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/test_cheminDonnee.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_cheminDonnee
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/test_cheminDonnee.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_cheminDonnee
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/etageMem.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity etageMem
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/test_cheminDonnee.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_cheminDonnee
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+ERROR: [VRFC 10-47] ins is already declared in this region [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd:96]
+ERROR: [VRFC 10-460] cannot read from 'out' object ins ; use 'buffer' or 'inout' [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd:109]
+ERROR: [VRFC 10-716] formal port ins of mode in cannot be associated with actual port ins of mode out [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd:109]
+ERROR: [VRFC 10-146] ins with mode 'out' cannot be read [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd:109]
+ERROR: [VRFC 10-1504] unit struct ignored due to previous errors [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd:41]
+INFO: [VRFC 10-240] VHDL file /home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+ERROR: [VRFC 10-460] cannot read from 'out' object ins ; use 'buffer' or 'inout' [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd:109]
+ERROR: [VRFC 10-716] formal port ins of mode in cannot be associated with actual port ins of mode out [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd:109]
+ERROR: [VRFC 10-146] ins with mode 'out' cannot be read [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd:109]
+ERROR: [VRFC 10-1504] unit struct ignored due to previous errors [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd:41]
+INFO: [VRFC 10-240] VHDL file /home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/test_cheminDonnee.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_cheminDonnee
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/test_cheminDonnee.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_cheminDonnee
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/DI_EX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DI_EX
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LC
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-307] analyzing entity LI_DI
+ERROR: [VRFC 10-91] std_logic is not declared [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd:53]
+ERROR: [VRFC 10-91] std_logic_vector is not declared [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd:54]
+ERROR: [VRFC 10-91] std_logic_vector is not declared [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd:55]
+ERROR: [VRFC 10-1504] unit li_di ignored due to previous errors [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd:52]
+INFO: [VRFC 10-240] VHDL file /home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/DI_EX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DI_EX
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LC
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-307] analyzing entity LI_DI
+ERROR: [VRFC 10-91] std_logic is not declared [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd:53]
+ERROR: [VRFC 10-91] std_logic_vector is not declared [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd:54]
+ERROR: [VRFC 10-91] std_logic_vector is not declared [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd:55]
+ERROR: [VRFC 10-1504] unit li_di ignored due to previous errors [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd:52]
+INFO: [VRFC 10-240] VHDL file /home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/DI_EX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DI_EX
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LC
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/etageMem.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity etageMem
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/MUX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/MUX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX1
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/MUX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX1
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/test_cheminDonnee.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_cheminDonnee
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+ERROR: [VRFC 10-91] auxa is not declared [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd:81]
+ERROR: [VRFC 10-91] auxb is not declared [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd:84]
+ERROR: [VRFC 10-1504] unit behavioral ignored due to previous errors [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd:48]
+INFO: [VRFC 10-240] VHDL file /home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/MUX2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX2
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/MUX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX1
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/MUX2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX2
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/MUX4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX4
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+ERROR: [VRFC 10-654] expected an architecture identifier in index [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd:140]
+ERROR: [VRFC 10-2666] formal port adr has no actual or default value [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd:140]
+ERROR: [VRFC 10-1504] unit struct ignored due to previous errors [/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd:40]
+INFO: [VRFC 10-240] VHDL file /home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/MUX4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX4
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/MUX3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX3
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/telefota/Bureau/4A/ProjetSysInf/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/DI_EX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DI_EX
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/LC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LC
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/MUX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX1
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/MUX2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX2
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/MUX3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX3
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/MUX4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX4
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/etageMem.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity etageMem
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_cheminDonnee.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_cheminDonnee
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/LC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LC
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_ALU
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_ALU
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_ALU
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_ALU.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_ALU
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+ERROR: [VRFC 10-1472] type error near qa ; expected type boolean [/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd:103]
+ERROR: [VRFC 10-29] to_string expects 1 arguments [/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd:103]
+ERROR: [VRFC 10-1471] type error near qa ; current type std_logic_vector; expected type positive [/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd:103]
+ERROR: [VRFC 10-2841] no feasible entry for subprogram to_string found [/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd:103]
+ERROR: [VRFC 10-1472] type error near qb ; expected type boolean [/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd:104]
+ERROR: [VRFC 10-29] to_string expects 1 arguments [/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd:104]
+ERROR: [VRFC 10-1471] type error near qb ; current type std_logic_vector; expected type positive [/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd:104]
+ERROR: [VRFC 10-2841] no feasible entry for subprogram to_string found [/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd:104]
+ERROR: [VRFC 10-1504] unit behavioral ignored due to previous errors [/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd:38]
+INFO: [VRFC 10-240] VHDL file /home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/test_bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sim_1/new/test_memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sim_1/new/test_memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sim_1/new/test_memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sim_1/new/test_memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sim_1/new/test_memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sim_1/new/test_memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sim_1/new/test_memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/LC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LC
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/LC.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LC
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/MUX2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX2
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/MUX2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX2
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/MUX2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX2
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/MUX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX1
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/MUX3.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX3
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memDonn.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memDonn
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/DI_EX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity DI_EX
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/bancRegistre.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity bancRegistre
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sim_1/new/test_gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sim_1/new/test_gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sim_1/new/test_gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sim_1/new/test_gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sim_1/new/test_gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sim_1/new/test_gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sim_1/new/test_gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+ERROR: [VRFC 10-1412] syntax error near , [/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd:135]
+ERROR: [VRFC 10-1504] unit struct ignored due to previous errors [/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd:40]
+INFO: [VRFC 10-240] VHDL file /home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sim_1/new/test_gestionAlea.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity test_gestionAlea
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/MUX.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity MUX1
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/LI_DI.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity LI_DI
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/ual.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity ual
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/cheminDonnees.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity cheminDonnees
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/maussion/Documents/4A/Systeme_Info/Compilator/Compilator.srcs/sources_1/new/memIns.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity memIns

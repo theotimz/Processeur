@@ -1,0 +1,4 @@
+Running: xsim.dir/test_cheminDonnee_behav/xsimk -simmode gui -wdb test_cheminDonnee_behav.wdb -simrunnum 0 -socket 49099
+Design successfully loaded
+Design Loading Memory Usage: 32712 KB (Peak: 32764 KB)
+Design Loading CPU Usage: 20 ms
